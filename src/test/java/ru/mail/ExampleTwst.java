@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 public class ExampleTwst {
     @Test
     void exampleTest0() {
-        Assertions.assertFalse(2 >= 5);
+        Assertions.assertFalse(4 >= 5);
     }
 
     @Test
